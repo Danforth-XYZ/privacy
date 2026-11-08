@@ -1,77 +1,85 @@
-**Privacy Policy**
+# Privacy Policy — Phone Banner
 
-This privacy policy applies to the Phone Banner app (hereby referred to as "Application") for mobile devices that was created by Sandy Lin (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+Effective 7 November 2026. This replaces the policy dated 21 May 2025.
 
-**Information Collection and Use**
+Phone Banner is made by Sandy Lin ("we"). It turns your iPhone or iPad into a sign. This page explains exactly what the app stores on your device and what it sends off it. It is written to match what version 1.0.18 of the app actually does.
 
-The Application collects information when you download and use it. This information may include information such as
+## The short version
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+- There is no account and no sign-in.
+- Your signs, colors and favorites stay on your device.
+- The current version shows no ads.
+- We never sell your data, and we do not track you across other apps or websites.
 
-The Application does not gather precise information about the location of your mobile device.
+## What stays on your device
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Phone Banner saves the following locally, in the app's own storage:
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+- the text of your signs, including the last sign you were editing
+- colors, timing, scroll speed and animation steps
+- your saved favorites
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+This data never leaves the device. Deleting the app deletes it. We cannot read it, recover it, or restore it for you.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+## What is sent off your device
 
-**Third Party Access**
+Three services receive limited technical data so the app works and improves.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+**Google Analytics for Firebase** receives usage events such as app opens, sign plays, settings changes, paywall views and subscription starts. Each event carries the device model, operating system and app version, the device language, a coarse region derived from your IP address, and a random app instance identifier. It does not carry the text of your signs.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+**Firebase Crashlytics** receives crash reports and stack traces, along with the device model, operating system, app version and app state at the time of the crash. This is what lets us fix crashes we never see ourselves.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+**RevenueCat** receives purchase and receipt information from the App Store or Google Play, plus an anonymous app user identifier, so it can confirm whether Phone Banner Pro is active on your device. It does not receive your name, email or payment details. Payments are processed by Apple or Google; we never see your card.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+## What we do not collect
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+- No location from GPS or any location permission. Region comes from the IP address at most, and only inside the analytics service.
+- No contacts, photos, camera, microphone, health or motion data.
+- No contents of your signs.
+- No advertising identifier, and no tracking across other apps or websites.
+- No email address or name, because there is no account.
 
-**Opt-Out Rights**
+## Advertising
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Version 1.0.18 contains no advertising SDK and shows no ads.
 
-**Data Retention Policy**
+If a future version shows ads, this policy will name the advertising provider before that version is released, and any consent required by law will be requested inside the app before ads are personalized. Phone Banner Pro is intended to remain ad-free.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at admin@danforth.xyz and they will respond in a reasonable time.
+## How long data is kept
 
-**Children**
+- Analytics events: 14 months.
+- Crash reports: 90 days.
+- Purchase records held by RevenueCat: as long as needed to keep subscriptions working and to meet tax and accounting obligations.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+## Service providers
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (admin@danforth.xyz) so that they will be able to take the necessary actions.
+- Google Analytics for Firebase and Firebase Crashlytics — <https://firebase.google.com/support/privacy>
+- RevenueCat — <https://www.revenuecat.com/privacy>
+- Apple App Store — <https://www.apple.com/legal/privacy>
+- Google Play — <https://policies.google.com/privacy>
 
-**Security**
+Each processes data under its own policy. We do not sell data to anyone.
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Your choices
 
-**Changes**
+- Delete the app to remove everything stored on your device.
+- To have diagnostic data tied to your install identifier deleted, email us at the address below and we will remove it.
+- You can turn off "Share With App Developers" in iOS Settings → Privacy & Security → Analytics, which stops Apple forwarding additional diagnostics.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+## Children
 
-This privacy policy is effective as of 2025-05-21
+Phone Banner is not directed to children under 13. There is no account, and we do not knowingly collect personal information from children. If you believe a child has sent us data, contact us and we will delete it.
 
-**Your Consent**
+## Security
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+Data in transit is encrypted with HTTPS. We keep the amount of data we collect to a minimum so there is little to protect.
 
-**Contact Us**
+## Changes
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at admin@danforth.xyz.
+If this policy changes, the new version is published on this page with a new effective date. Material changes, such as adding advertising, will be noted in the app's release notes.
 
-* * *
+## Contact
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Questions about privacy: **admin@danforth.xyz**
+
+Support and feedback: **admin@danforth.xyz**
